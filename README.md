@@ -7,3 +7,6 @@ This repository was created to display any interesting findings on SpaceX flight
 </p>
 
 
+<p align="center">
+  <img src="https://github.com/lherna/spacex_flights/blob/main/images/dataframe_spacex.png" title="spacex_dataframe">
+</p>
