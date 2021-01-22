@@ -18,4 +18,12 @@ Ready to be analyzed in this form, it was temporarily placed on a database using
 
 ## Analysis 
 
+Breaking it down into two parts, once the data was prepared and waiting to be used, I contemplated on what could be done with it. Starting off with the description provided for each of the flights, I used this data to generate a wordcloud.
+
 ### Wordcloud
+
+The first thing done was to use the data and make a wordcloud using the description column.
+
+<p align="center">
+  <img src="https://github.com/lherna/spacex_flights/blob/main/images/spacex_wordcloud.png", title="spacex_wordcloud">
+</p>
