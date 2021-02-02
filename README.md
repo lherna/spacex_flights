@@ -17,6 +17,7 @@ Extracted, cleaned and formatted, the data was processed through lists and event
 </p>
 
 Ready to be analyzed in this form, it was temporarily placed on a database using python's SQL liteweight framework (more formally known as sqlite3).
+For a detailed runthrough on the steps taken to perform this first process, please reference the 
 
 ## Analysis 
 
