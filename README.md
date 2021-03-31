@@ -30,3 +30,14 @@ The first thing done was to use the data and make a wordcloud using the descript
 <p align="center">
   <img src="https://github.com/lherna/spacex_flights/blob/main/images/spacex_wordcloud.png", title="spacex_wordcloud">
 </p>
+
+
+<p align="center">
+  <img src="https://github.com/lherna/spacex_flights/blob/main/images/change.png", title="spacex_wordcloud">
+</p>
+
+
+
+
+
+
