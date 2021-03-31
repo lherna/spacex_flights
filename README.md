@@ -19,9 +19,19 @@ Extracted, cleaned and formatted, the data was processed through lists and event
 Ready to be analyzed in this form, it was temporarily placed on a database using python's SQL liteweight framework (more formally known as sqlite3).
 For a detailed runthrough on the steps taken to perform this first process, please reference the <a href='https://github.com/lherna/spacex_flights/blob/main/Webscrape_SpaceX.ipynb'>Webscrape_SpaceX.ipynb</a> jupyter notebook.
 
-## Analysis 
+## Data Exploration 
 
-Breaking it down into two parts, once the data was prepared and waiting to be used, I contemplated on what could be done with it. Starting off with the description provided for each of the flights, I used this data to generate a wordcloud.
+Breaking it down into a couple of parts, once the data was prepared and waiting to be used, the first thing that came to mind was the set of questions posed on the <a href="https://www.kaggle.com/scoleman/spacex-launch-data">Kaggle challenge</a> from which I originally got this idea.
+
+### Launch Progress
+
+Using the information for the date(s) of launch, these were counted and visualized using matplotlib and seaborn to be those presented below:
+
+<p align="center">
+  <img src="https://github.com/lherna/spacex_flights/blob/main/images/change.png", title="spacex_wordcloud">
+</p>
+
+Having the extra ability to consider the description section available on the scraped wiki data, I went ahead and checked to see if there were any interesting insights through the available wordcloud package in python. 
 
 ### Wordcloud
 
@@ -32,9 +42,6 @@ The first thing done was to use the data and make a wordcloud using the descript
 </p>
 
 
-<p align="center">
-  <img src="https://github.com/lherna/spacex_flights/blob/main/images/change.png", title="spacex_wordcloud">
-</p>
 
 
 
