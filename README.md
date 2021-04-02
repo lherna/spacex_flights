@@ -25,7 +25,7 @@ Breaking it down into a couple of parts, once the data was prepared and waiting 
 
 ### Launch Progress
 
-Using the information for the date(s) of launch, these were counted and visualized using matplotlib and seaborn. Presented in the findings below, a pattern can be somewhat seen with three peaks in three different years.
+Using the information for the date(s) of launch, these were counted and visualized using matplotlib and seaborn. Presented in the findings below, a pattern can be somewhat seen with three peaks in three different years: 2017, 2019 and 2020.
 
 <p align="center">
   <img src="https://github.com/lherna/spacex_flights/blob/main/images/change.png", title="spacex_wordcloud">
