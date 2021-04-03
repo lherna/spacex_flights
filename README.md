@@ -4,12 +4,21 @@ This repository was created to display any interesting findings that could arise
 
 ## Webscrape - Exctracting data through selenium.
 
-Starting from the publicly available flights on wikipedia (2010) up to now, the data was webscraped using python's seleniun version, which was challenging due to the format inconsistency for each datapoint as can be seen below:
+Given that the data available is already distributed among the launches that have already taken place and those that are planned to be launched in the future, the HTML tag structure is likewise different and hence the webscrape process was performed in two occasions.
+
+### Training Set - Past Launches
+
+Starting from the publicly available flights on wikipedia (2010) up to now (April 2021), the data was webscraped using python's seleniun version, which was challenging due to the format inconsistency for each datapoint as can be seen below:
 
 <p align="center">
   <img src="https://github.com/lherna/spacex_flights/blob/main/images/spacex_screenshot_short.png" title="spacex_table">
 </p>
 
+For this reason, the Jupyter Notebook was modified to satisfy for both the webscrape process of the training set and test set.
+
+### Test Set - Future Launches
+
+Continuing from the data scraped for the training set, the test set extends from now until the end of the available data (2025), which was likewise challenging as the format inconsistency continued. 
 
 <p align="center">
   <img src="https://github.com/lherna/spacex_flights/blob/main/images/spacex_tscreenshot.png" title="spacex_table">
