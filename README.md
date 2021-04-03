@@ -11,7 +11,7 @@ Given that the data available is already distributed among the launches that hav
 Starting from the publicly available flights on wikipedia (2010) up to now (April 2021), the data was webscraped using python's seleniun version, which was challenging due to the format inconsistency for each datapoint as can be seen below:
 
 <p align="center">
-  <img src="https://github.com/lherna/spacex_flights/blob/main/images/spacex_screenshot_short.png" title="spacex_table">
+  <img src="https://github.com/lherna/spacex_flights/blob/main/images/spacex_screenshot_short.png" title="spacex_train_table">
 </p>
 
 For this reason, the Jupyter Notebook was modified to satisfy for both the webscrape process of the training set and test set.
@@ -21,7 +21,7 @@ For this reason, the Jupyter Notebook was modified to satisfy for both the websc
 Continuing from the data scraped for the training set, the test set extends from now until the end of the available data (2025), which was likewise challenging as the format inconsistency continued. 
 
 <p align="center">
-  <img src="https://github.com/lherna/spacex_flights/blob/main/images/spacex_tscreenshot.png" title="spacex_table">
+  <img src="https://github.com/lherna/spacex_flights/blob/main/images/spacex_tscreenshot.png" title="spacex_test_table">
 </p>
 
 Extracted, cleaned and formatted, the data was processed through lists and eventually dumped onto a pandas dataframe, ending up in the form shown below:
