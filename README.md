@@ -10,6 +10,11 @@ Starting from the publicly available flights on wikipedia (2010) up to now, the 
   <img src="https://github.com/lherna/spacex_flights/blob/main/images/spacex_screenshot_short.png" title="spacex_table">
 </p>
 
+
+<p align="center">
+  <img src="https://github.com/lherna/spacex_flights/blob/main/images/spacex_tscreenshot.png" title="spacex_table">
+</p>
+
 Extracted, cleaned and formatted, the data was processed through lists and eventually dumped onto a pandas dataframe, ending up in the form shown below:
 
 <p align="center">
