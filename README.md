@@ -4,7 +4,7 @@ This repository was created to display any interesting findings that could arise
 
 ## Webscrape - Exctracting data through selenium.
 
-Given that the data available is already distributed among the launches that have already taken place and those that are planned to be launched in the future, the HTML tag structure is likewise different and hence the webscrape process was performed in two occasions.
+Given that the data available is already distributed among the launches that have already taken place and those that are planned to be launched in the future, the HTML tag structure is likewise different and hence the webscrape process was performed in via two distinct methods.
 
 ### Training Set - Past Launches
 
