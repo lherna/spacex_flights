@@ -14,7 +14,7 @@ Starting from the publicly available flights on wikipedia (2010) up to now (Apri
   <img src="https://github.com/lherna/spacex_flights/blob/main/images/spacex_screenshot_short.png" title="spacex_train_table">
 </p>
 
-For this reason, the Jupyter Notebook was modified to satisfy for both the webscrape process of the training set (Prior to April 2021) and test set (Post April 2021).
+For this reason, the Jupyter Notebook was modified to satisfy for both the training set (Prior to April 2021) and test set (Post April 2021) webscraping process.
 
 ### Test Set - Future Launches
 
