@@ -18,7 +18,7 @@ For this reason, the Jupyter Notebook was modified to satisfy for both the train
 
 ### Test Set - Future Launches
 
-Continuing from the data scraped for the training set, the test set extends from now until the end of the available data (2025), which was likewise challenging as the format inconsistency continued. 
+Continuing from the data scraped for the training set, the test set extends from now (April 2021) until the end of the available data (2025), which was likewise challenging as the format inconsistency continued. 
 
 <p align="center">
   <img src="https://github.com/lherna/spacex_flights/blob/main/images/spacex_tscreenshot.png" title="spacex_test_table">
