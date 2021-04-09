@@ -4,7 +4,7 @@ This repository was created to display any interesting findings that could arise
 
 ## Webscrape - Exctracting data through selenium.
 
-Given that the data available is already distributed among the launches that have already taken place and those that are planned to be launched in the future, the HTML tag structure is likewise different and hence the webscrape process was performed in via two distinct methods.
+Given that the data available is already distributed among the launches that have already taken place and those that are planned to be launched in the future through a set of tables, the HTML tag structure is likewise different and hence the webscrape process was performed in via conditional filters.
 
 ### Training Set - Past Launches
 
@@ -14,7 +14,7 @@ Starting from the publicly available flights on wikipedia (2010) up to now (Apri
   <img src="https://github.com/lherna/spacex_flights/blob/main/images/spacex_screenshot_short.png" title="spacex_train_table">
 </p>
 
-For this reason, the Jupyter Notebook was modified to satisfy for both the training set (Prior to April 2021) and test set (Post April 2021) webscraping process.
+For this reason, the Jupyter Notebook was modified to satisfy the webscraping process for both the training set (Prior to April 2021) and test set (Post April 2021).
 
 ### Test Set - Future Launches
 
