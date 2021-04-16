@@ -14,7 +14,7 @@ Starting from the publicly available flights on wikipedia (2010) up to now (Apri
   <img src="https://github.com/lherna/spacex_flights/blob/main/images/spacex_screenshot_short.png" title="spacex_train_table">
 </p>
 
-For this reason, the <a href="https://github.com/lherna/spacex_flights/blob/main/Webscrape_SpaceX.ipynb">Jupyter Notebook</a> was modified to satisfy the webscraping process for both the training set (Prior to April 2021) and test set (Post April 2021).
+Containing two rows for every flight number, and changing the amount of features available between the training set (Prior to April 2021) and the test set (Post April 2021), the <a href="https://github.com/lherna/spacex_flights/blob/main/Webscrape_SpaceX.ipynb">Jupyter Notebook</a> had to be modified from it's original design to satisfy the webscraping process for both of the datasets.
 
 ### Test Set - Future Launches
 
