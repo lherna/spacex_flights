@@ -24,7 +24,7 @@ Continuing from the data scraped for the training set, the test set extends from
   <img src="https://github.com/lherna/spacex_flights/blob/main/images/spacex_tscreenshot.png" title="spacex_test_table">
 </p>
 
-Extracted, cleaned and formatted, the data was processed through lists and eventually passed onto a pandas dataframe, ending up in the form shown below:
+Extracted, cleaned and formatted, the data was processed through a series of lists and eventually passed onto a pandas dataframe, ending up in the form shown below:
 
 <p align="center">
   <img src="https://github.com/lherna/spacex_flights/blob/main/images/dataframe_spacex_short.png" title="spacex_dataframe">
