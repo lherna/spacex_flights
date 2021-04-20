@@ -35,7 +35,7 @@ For a detailed runthrough on the steps taken to perform this first process, plea
 
 ## Data Exploration 
 
-Breaking it down into a couple of parts, once the data was prepared and waiting to be used, the first thing that came to mind was the set of questions posed on the <a href="https://www.kaggle.com/scoleman/spacex-launch-data">Kaggle challenge</a> from which I originally got this idea.
+Breaking it down into a couple of parts, once the data was prepared and waiting to be used, the first thing that came to mind were the set of questions posed on the <a href="https://www.kaggle.com/scoleman/spacex-launch-data">Kaggle challenge</a> from which I originally got this idea.
 
 ### Launch Progress
 
