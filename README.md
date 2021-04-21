@@ -1,6 +1,6 @@
 # SpaceX Flight Outlook
 
-This repository was created to display any interesting findings that could arise from publicly available SpaceX flight data. Using wikipedia as my source of information for this project, the first question arose on how to extract the information in order to work with it, which is the first tackled task.
+This repository was created to display any interesting findings that could arise from publicly available SpaceX flight data. Using <a href="https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches">wikipedia</a> as my source of information for this project, the first question arose on how to extract the information in order to work with it, which is the first tackled task.
 
 ## Webscrape - Exctracting data through selenium.
 
