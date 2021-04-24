@@ -57,8 +57,7 @@ As mentioned previously, following from the launch progress, the next thing that
 
 ## Data Analysis 
 
-
-
+Having now a pair of training and test sets, the next thing to do was to further explore what insights could be obtained from this data. Seeing that there were columns unavailable in the test set, a prediction of these values came to mind.
 
 
 
