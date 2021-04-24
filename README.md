@@ -35,7 +35,7 @@ For a detailed runthrough on the steps taken to perform this first process, plea
 
 ## Data Exploration 
 
-Breaking it down into a couple of parts, once the data was prepared and waiting to be used, the first thing that came to mind were the set of questions posed on the <a href="https://www.kaggle.com/scoleman/spacex-launch-data">Kaggle challenge</a> from which I originally got this idea.
+Breaking it down into a couple of parts, once the data was prepared, the first thing that came to mind were the set of questions posed on the <a href="https://www.kaggle.com/scoleman/spacex-launch-data">Kaggle challenge</a> from which I originally got this idea.
 
 ### Launch Progress
 
@@ -49,12 +49,13 @@ Having the extra ability to consider the description section available on the sc
 
 ### Wordcloud
 
-The first thing done was to use the data and make a wordcloud using the description column.
+As mentioned previously, following from the launch progress, the next thing that came to mind was the exploration of the description column. Having some previous experience using the wordcloud package python has available, it was used to visualize the data available in the descriptions, specifically on the most relevant words that were used for the launches.
 
 <p align="center">
   <img src="https://github.com/lherna/spacex_flights/blob/main/images/spacex_wordcloud.png", title="spacex_wordcloud">
 </p>
 
+## Data Analysis 
 
 
 
